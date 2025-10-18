@@ -1,4 +1,4 @@
-# Hi there, I'm Growly 👋
+# Hi there, we're Growly 👋
 
 <div align="center">
   
@@ -8,9 +8,9 @@
 
 </div>
 
-## 🚀 About Me
+## 🚀 About Us
 
-I'm a **DevOps Engineer** specializing in cloud infrastructure, application performance optimization, and scalable system architecture. I work across multiple cloud platforms and focus on building reliable, high-performance solutions.
+We're a **DevOps and Cloud Infrastructure Company** specializing in cloud infrastructure, application performance optimization, and scalable system architecture. Our team of experts works across multiple cloud platforms, focusing on building reliable, high-performance solutions for businesses of all sizes.
 
 ```yaml
 current_focus:
@@ -37,11 +37,13 @@ website: "https://getgrowly.co"
 
 </div>
 
-### 🎯 Core Focus Areas
+### 🎯 What We Do
 
-- **⚡ Application Performance** - Optimizing applications for speed, efficiency, and reliability through advanced performance tuning
-- **📊 Monitoring & Observability** - Implementing comprehensive monitoring with Prometheus, Grafana, and cloud-native tools
-- **📈 Scaling & Architecture** - Designing auto-scaling solutions and resilient architectures for growing businesses
+- **⚡ Application Performance** - Our team optimizes applications for speed, efficiency, and reliability through advanced performance tuning
+- **📊 Monitoring & Observability** - We implement comprehensive monitoring solutions with Prometheus, Grafana, and cloud-native tools
+- **📈 Scaling & Architecture** - We design auto-scaling solutions and resilient architectures for growing businesses
+- **🔧 Infrastructure Automation** - We automate infrastructure provisioning and management across all major cloud platforms
+- **🛡️ Security & Compliance** - We ensure cloud infrastructure meets industry security standards and compliance requirements
 
 ## 🛠️ Tech Stack
 
